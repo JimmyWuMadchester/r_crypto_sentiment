@@ -16,7 +16,7 @@ The training data set used by Sergey, including 1.6 million classified tweets, c
 
 ## Apply the trained model to an example cryptocurrency
 
-The code example ```twitter_sentiment_example.R``` is for getting the tweets and predicting the probability of sentiment positiveness. ```twitter_sentiment_visualisation.R``` uses ggplot to visualise the sentiment movement over time. The example result plot is shown below.
+The code example ```twitter_sentiment_example.R``` is for getting the tweets and predicting the probability of sentiment positiveness. ```twitter_sentiment_visualisation.R``` uses ggplot to visualise the sentiment movement over time. The example result plot of IOTA sentiment on 2018-01-27 morning is shown below.
 
 ![IOTA sentiment on 2018-01-27 morning](/results/IOTA_sentiment_2018-01-27.png)
 
