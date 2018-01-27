@@ -1,0 +1,4 @@
+trainingandtestdata/*
+.httr-oauth
+my_twitter_sentiment_test.R
+my_twitter_sentiment_visualisation_test.R
