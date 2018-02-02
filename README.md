@@ -25,3 +25,5 @@ The code example ```twitter_sentiment_example.R``` is for getting the tweets and
 The free twitter search API doesn't return tweets older than 7 days. There are other request limitations when using the API. It is therefore pretty expensive to get historical datasets to join with the historical price data.
 
 It might be possible to get a sentiment LIVE view on multiple cryptos.
+
+[https://crypto-sentiment.com/](https://crypto-sentiment.com/) has three useful sentiment analysis charts.
